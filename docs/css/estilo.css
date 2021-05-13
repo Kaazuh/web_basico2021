@@ -1,0 +1,47 @@
+body {
+    background-color: lightgray;
+}
+
+table {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+}
+
+#menu {
+    background-color: lightskyblue;
+}
+
+.menuDireita {
+    float: right;
+}
+
+#nome {
+    font-size: xx-large;
+    margin-top: 200px;
+    margin-left: 35%;
+}
+
+#dados {
+    font-size: large;
+    margin-left: 35%;
+}
+
+.tituloCentralizado {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.empresas {
+    font-size: 150%;
+}
+
+.letrasMaiores {
+    font-size: larger;
+}
+
+.separacaoEmpresas {
+    border: 1px solid black;
+    border-radius: 5px;
+    border-width: 50%;
+}
